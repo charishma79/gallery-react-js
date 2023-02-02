@@ -1,0 +1,11 @@
+/* Write your code here. */
+
+.images-folder {
+  list-style-type: none;
+  margin: 10px;
+}
+
+.button {
+  border-width: 0px;
+  background-color: transparent;
+}
