@@ -106,6 +106,7 @@ class Gallery extends Component {
                 key={eachImage.id}
                 updateActiveImage={this.updateActiveImage}
                 updateAlt={this.updateActiveAlt}
+                isActive={activeImage === eachImage.imageUrl}
               />
             ))}
           </ul>
