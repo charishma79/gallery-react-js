@@ -9,3 +9,8 @@
   border-width: 0px;
   background-color: transparent;
 }
+
+.btn {
+  opacity: 0.5;
+}
+
